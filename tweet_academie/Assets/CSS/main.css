@@ -1,0 +1,38 @@
+.bg-grid {
+    background-image: url("../../Assets/img/home/bg.png");
+}
+
+.text-size {
+    font-size: 19px;
+}
+
+.vh-95 {
+    height: 95vh!important;
+}
+
+.vh-5 {
+    height: 5vh!important;
+}
+
+.shadow-text {
+    text-shadow: 0px 1px 7px rgba(0, 0, 0, 0.4);
+}
+
+.svg-color {
+    color: #007bff!important;
+}
+
+.square {
+    height: 20px;
+    width: 20px;
+}
+
+.nav-item:hover {
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: 50rem!important;
+    background-color: rgba(0, 0, 0, 0.41);
+}
+
+textarea {
+    resize: none!important;
+}
